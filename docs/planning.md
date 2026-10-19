@@ -17,6 +17,10 @@ The Safe Food Bristol application is likely to face challenges of inaccurate or 
 To mitigate these risks, the following will be undertaken. Validating information from Open Data Bristol using the Food Standards Agency, checking on whether data is updated regularly manually, monitoring the data source to be informed on an changes in format, applying HTTPS to boost website security, linking authoritative sources like the Government of UK to showcase authenticity of the data, testing with various users before deploying the app and setting up a social media page to ensure promotion of the application.  
 
 ## Project Scope
-TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
-
-![Insert your Context Diagram Here](images/context.png)
+- Food Consumers
+- Lecturer
+- Sotfware Developer
+- Government Food and Health Agencies
+- Food Delivery Platforms
+- Restaurant Owners
+[Context Diagram](images/Contextdiagram.png)
