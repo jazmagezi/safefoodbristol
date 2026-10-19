@@ -1,6 +1,6 @@
-# TODO: PROJECT NAME HERE
+SAFE FOOD BRISTOL
 
-TODO: Brief outline of your project describing the dataset and a link to it.
+An application that uses displays information about food establishments concerning their hygiene inspection results. It uses data from the Food Hygiene Ratings Dataset on Open Data Bristol.
 
 1. [Planning](docs/planning.md)
 2. [Requirements](docs/requirements.md)
