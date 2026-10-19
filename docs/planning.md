@@ -10,6 +10,7 @@ The Safe Food Bristol application provides users with up-to-date information reg
 
 ### Options Considered
 [Options Pugh Matrix](images/Pughmatrix.xlsx)
+
 Therefore, the better option is to develop an interactive website.
 
 ### Expected Risks
@@ -23,4 +24,5 @@ To mitigate these risks, the following will be undertaken. Validating informatio
 - Government Food and Health Agencies
 - Food Delivery Platforms
 - Restaurant Owners
+  
 [Context Diagram](images/Contextdiagram.png)
