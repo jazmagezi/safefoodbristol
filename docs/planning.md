@@ -11,7 +11,7 @@ The Safe Food Bristol application provides users with up-to-date information reg
 ### Options Considered
 | **Criteria** | **Weight** | **Static Website** | **Interactive Website** |
 | Data Update Functionality | 2 | S | ++ |
-
+| **Description** | TODO: Goal to be achieved by use case and sources for requirement |
 Therefore, the better option is to develop an interactive website.
 
 ### Expected Risks
