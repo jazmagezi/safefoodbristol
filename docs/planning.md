@@ -9,9 +9,14 @@ Food safety in the food market is one of the key areas of focus in public health
 The Safe Food Bristol application provides users with up-to-date information regarding the health standards of various restaurants around Bristol. This ensures that one can know whether the restaurant they desire to dine at or order from is compliant with the required food safety standards thus curbing the contraction of foodborne illnesses. The application uses data from Bristol Open Data to display information about food establishments concerning their hygiene inspection results. Users can search for restaurants, explore available ratings, and compare different establishments before deciding where to purchase food. By presenting this information in a clear and user-friendly format, Safe Food Bristol makes it easier for people to identify restaurants with high hygiene standards and avoid those with potentially concerning ratings. The application furthermore promotes public awareness of food safety, encourages restaurant owners to maintain good hygiene practices and ensures greater transparency within Bristol's food industry.
 
 ### Options Considered
+#### Weighted Pugh Matrix
 |  | **Weight** | **Static Website** | **Interactive Website** |
 | --------- | ---------- | ----------- | ----------- |
 | Data Update Functionality | 2 | S | ++ |
+| Maintenance | 1 | S | - |
+| Development Complexity | 2 | S | - |
+| User Engagement | 1 | S | + |
+| Total |  | 0 | ++ |
 Therefore, the better option is to develop an interactive website.
 
 ### Expected Risks
