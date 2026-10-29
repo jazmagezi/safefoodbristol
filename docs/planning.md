@@ -16,7 +16,8 @@ The Safe Food Bristol application provides users with up-to-date information reg
 | Maintenance | 1 | S | - |
 | Development Complexity | 2 | S | - |
 | User Engagement | 1 | S | + |
-| Total |  | 0 | ++ |
+| Total |  | 0 | 2 |
+
 Therefore, the better option is to develop an interactive website.
 
 ### Expected Risks
