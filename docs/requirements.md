@@ -7,14 +7,24 @@ TODO: Write brief user stories to explain how various actors would interact with
     Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
 
 ### Actors
-TODO: List and describe the actors/users for this product.
+- Food Consumers
+- Government Food and Health Agencies
+- Food Delivery Platforms
+- Restaurant Owners
 
 ### Use Cases
-TODO: Describe each use case (at least one per team member).
-    Give each use case a unique ID, e.g. UC1, UC2, ...
-    Summarise these using the use-case template below.
 
-| TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
+| UC1 | VIEW HYGIENGE RATINGS OF RESTAURANTS | 
+| -------------------------------------- | ------------------- |
+| **Description** | Showcases information regarding hygiene ratings of restaurants within Bristol |
+| **Actors** | Food Consumers, Government Food and Health Agencies, Food Delivery Platforms, Restaurant Owners |
+| **Assumptions** | User knows the specific restaurant they are making an enquiry on |
+| **Steps** | <ul><li>Search for restaurant by name</li><li>View food hygiene ratings and inspection date</li><li>Use information to discern suitability of restaurant for dining requirements</ul> |
+| **Variations** | Compare the hygiene ratings of two or more different restaurants using application comparison feature |
+| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
+| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+
+| UC2| TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
 | **Description** | TODO: Goal to be achieved by use case and sources for requirement |
 | **Actors** | TODO: List of actors involved in use case |
@@ -23,9 +33,6 @@ TODO: Describe each use case (at least one per team member).
 | **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
-
-
-TODO: Your Use-Case diagram should include all use-cases.
 
 ![Insert your Use-Case Diagram Here](images/use-case.png)
 
