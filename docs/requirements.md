@@ -14,10 +14,10 @@ TODO: Write brief user stories to explain how various actors would interact with
 
 ### Use Cases
 
-| UC1 | VIEW HYGIENGE RATINGS OF RESTAURANTS | 
+| UC1 | SEARCH FOR HYGIENE RATINGS OF PROSPECTIVE RESTAURANTS| 
 | -------------------------------------- | ------------------- |
 | **Description** | Showcases information regarding hygiene ratings of restaurants within Bristol |
-| **Actors** | Food Consumers, Government Food and Health Agencies, Food Delivery Platforms, Restaurant Owners |
+| **Actors** | Food Consumers |
 | **Assumptions** | User knows the specific restaurant they are making an enquiry on |
 | **Steps** | <ul><li>Search for restaurant by name</li><li>View food hygiene ratings and inspection date</li><li>Use information to discern suitability of restaurant for dining requirements</ul> |
 | **Variations** | Compare the hygiene ratings of two or more different restaurants using application comparison feature |
