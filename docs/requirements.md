@@ -21,8 +21,8 @@ TODO: Write brief user stories to explain how various actors would interact with
 | **Assumptions** | User knows the specific restaurant they are making an enquiry on |
 | **Steps** | <ul><li>Search for restaurant by name</li><li>View food hygiene ratings and inspection date</li><li>Use information to discern suitability of restaurant for dining requirements</ul> |
 | **Variations** | Compare the hygiene ratings of two or more different restaurants using application comparison feature |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+| **Non-functional** | Servers hosting the application should be constantly online. |
+| **Issues** | Outdated ratings on the Food Hygiene Ratings Dataset on Open Data Bristol. |
 
 | UC2| TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
