@@ -3,8 +3,7 @@
 ## User Needs
 
 ### User stories
-TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
-    Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
+As a food consumer I want to be able to search for food hygiene ratings of restaurants I desire to eat from so that I can avoid contracting illness arising from food poisoning.
 
 ### Actors
 - Food Consumers
@@ -14,25 +13,30 @@ TODO: Write brief user stories to explain how various actors would interact with
 
 ### Use Cases
 
-| UC1 | SEARCH FOR HYGIENE RATINGS OF PROSPECTIVE RESTAURANTS| 
+| UC1 | SEARCH FOR HYGIENE RATINGS OF PROSPECTIVE RESTAURANTS | 
 | -------------------------------------- | ------------------- |
-| **Description** | Showcases information regarding hygiene ratings of restaurants within Bristol |
+| **Description** | Allows one to look up food hygiene ratings of restaurants within Bristol. |
 | **Actors** | Food Consumers |
-| **Assumptions** | User knows the specific restaurant they are making an enquiry on |
+| **Assumptions** | User knows the specific restaurant they are making an enquiry on. |
 | **Steps** | <ul><li>Search for restaurant by name</li><li>View food hygiene ratings and inspection date</li><li>Use information to discern suitability of restaurant for dining requirements</ul> |
-| **Variations** | Compare the hygiene ratings of two or more different restaurants using application comparison feature |
+| **Variations** | Compare the hygiene ratings of two or more different restaurants using application comparison feature. |
 | **Non-functional** | Servers hosting the application should be constantly online. |
 | **Issues** | Outdated ratings on the Food Hygiene Ratings Dataset on Open Data Bristol. |
 
-| UC2| TODO: USE-CASE NAME | 
+| UC2 | CHECK WHETHER THE HYGIENE RATINGS ARE UP-TO-DATE | 
 | -------------------------------------- | ------------------- |
-| **Description** | TODO: Goal to be achieved by use case and sources for requirement |
-| **Actors** | TODO: List of actors involved in use case |
-| **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
-| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+| **Description** | Enables one to check and confirm whether the food hygiene ratings posted on the application are valid. |
+| **Actors** | Government Food and Health Agencies, Restaurant Owners |
+| **Assumptions** | User has access to records having up-to-date hygiene ratings of their specific restaurant. |
+| **Steps** | <ul><li>Search for a restaurant by name. </li><li>View its respective food hygiene rating.</li><li> Compare the rating with the one saved in relevant records.</li></ul> |
+| **Variations** | Send a request through the email linked on the website to have a falsely displayed food rating changed. |
+
+| UC3 | OBTAIN HYGIENE RATINGS TO DISPLAY IN THEIR APPLICATIONS  | 
+| -------------------------------------- | ------------------- |
+| **Description** |  Allows one to look up food hygiene ratings of restaurants within Bristol and use that information for display in their respective applications. |
+| **Actors** | Food Delivery Platforms |
+| **Assumptions** | TODO: Pre/post-conditions if any</td></tr> |
+| **Steps** | <ul><li>Search for restaurants they offer delivery services to.</li><li>View the respective food hygiene ratings.</li><li>Use information gained to display food hygiene ratings in their applications.</li></ul> |
 
 ![Insert your Use-Case Diagram Here](images/use-case.png)
 
