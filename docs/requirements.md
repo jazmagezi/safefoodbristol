@@ -35,7 +35,6 @@ As a food consumer I want to be able to search for food hygiene ratings of resta
 | -------------------------------------- | ------------------- |
 | **Description** |  Allows one to look up food hygiene ratings of restaurants within Bristol and use that information for display in their respective applications. |
 | **Actors** | Food Delivery Platforms |
-| **Assumptions** | TODO: Pre/post-conditions if any</td></tr> |
 | **Steps** | <ul><li>Search for restaurants they offer delivery services to.</li><li>View the respective food hygiene ratings.</li><li>Use information gained to display food hygiene ratings in their applications.</li></ul> |
 
 ![Insert your Use-Case Diagram Here](images/use-case.png)
