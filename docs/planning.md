@@ -25,4 +25,4 @@ The Safe Food Bristol application is likely to face challenges of inaccurate or 
 To mitigate these risks, the following will be undertaken. Validating information from Open Data Bristol using the Food Standards Agency, checking on whether data is updated regularly manually, monitoring the data source to be informed on an changes in format, applying HTTPS to boost website security, linking authoritative sources like the Government of UK to showcase authenticity of the data, testing with various users before deploying the app and setting up a social media page to ensure promotion of the application.  
 
 ## Project Scope
-![Context Diagram](images/Contextdiagram.png)
+![Context Diagram](images/ContextDiagram.png)
