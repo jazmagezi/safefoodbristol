@@ -30,4 +30,4 @@ To mitigate these risks, the following will be undertaken. Validating informatio
 - Food Delivery Platforms
 - Restaurant Owners
   
-[Context Diagram](images/Contextdiagram.png)
+![Context Diagram](images/Contextdiagram.png)
