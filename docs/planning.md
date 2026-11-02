@@ -26,8 +26,6 @@ To mitigate these risks, the following will be undertaken. Validating informatio
 
 ## Project Scope
 - Food Consumers
-- Lecturer
-- Sotfware Developer
 - Government Food and Health Agencies
 - Food Delivery Platforms
 - Restaurant Owners
