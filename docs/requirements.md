@@ -37,7 +37,7 @@ As a food consumer I want to be able to search for food hygiene ratings of resta
 | **Actors** | Food Delivery Platforms |
 | **Steps** | <ul><li>Search for restaurants they offer delivery services to.</li><li>View the respective food hygiene ratings.</li><li>Use information gained to display food hygiene ratings in their applications.</li></ul> |
 
-[Safe Food Bristol Use-Case Diagram](images/SafeFoodBristolUseCaseDiagram.asta)
+![Safe Food Bristol Use-Case Diagram](images/SafeFoodBristolUseCaseDiagram.png)
 
 ## Software Requirements Specification
 ### Functional requirements
