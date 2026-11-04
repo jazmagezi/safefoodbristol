@@ -37,7 +37,8 @@ As an owner of a food delivery platform, I want to be able to incorporate food h
 | -------------------------------------- | ------------------- |
 | **Description** |  Allows one to look up food hygiene ratings of restaurants within Bristol and use that information for display in their respective applications. |
 | **Actors** | Food Delivery Platforms |
-| **Steps** | <ul><li>Search for restaurants they offer delivery services to.</li><li>View the respective food hygiene ratings.</li><li>Use information gained to display food hygiene ratings in their applications.</li></ul> |
+| **Assumptions** | User knows the specific restaurant they offer delivery services to. |
+| **Steps** | <ul><li>Search for restaurants by name.</li><li>View the respective food hygiene ratings.</li><li>Use information gained to display food hygiene ratings in their applications.</li></ul> |
 
 ![Use-Case Diagram](images/UseCaseDiagram.png)
 
