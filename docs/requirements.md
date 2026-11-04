@@ -32,6 +32,7 @@ As an owner of a food delivery platform, I want to be able to incorporate food h
 | **Assumptions** | User has access to records having up-to-date hygiene ratings of their specific restaurant. |
 | **Steps** | <ul><li>Search for a restaurant by name. </li><li>View its respective food hygiene rating.</li><li> Compare the rating with the one saved in relevant records.</li></ul> |
 | **Variations** | Send a request through the email linked on the website to have a falsely displayed food rating changed. |
+| **Non-functional** | Servers hosting the application should be constantly online. |
 
 | UC3 | OBTAIN HYGIENE RATINGS TO DISPLAY IN THEIR APPLICATIONS  | 
 | -------------------------------------- | ------------------- |
@@ -39,6 +40,7 @@ As an owner of a food delivery platform, I want to be able to incorporate food h
 | **Actors** | Food Delivery Platforms |
 | **Assumptions** | User knows the specific restaurant they offer delivery services to. |
 | **Steps** | <ul><li>Search for restaurants by name.</li><li>View the respective food hygiene ratings.</li><li>Use information gained to display food hygiene ratings in their applications.</li></ul> |
+| **Non-functional** | Servers hosting the application should be constantly online. |
 
 ![Use-Case Diagram](images/UseCaseDiagram.png)
 
